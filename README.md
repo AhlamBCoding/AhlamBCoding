@@ -13,7 +13,7 @@
 - Front-End, Back-End, Scripting
 - C, C#, Java, Python
 - HTML, CSS, JavaScript
-- PHP & mySQL
+- SQL
 - Windows, Linux
 <!--- Docker, Kuberneties
 - AWS -->
