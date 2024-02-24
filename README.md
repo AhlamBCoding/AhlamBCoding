@@ -34,17 +34,29 @@
 
 <table align="center">
   <tr>
-     <td align="center" width="96">
-      <a href="#PHP">
-        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
-      </a>
-      <br>PHP
-    </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
       </a>
       <br>Python
+    </td>
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.logo.wine/a/logo/React_(web_framework)/React_(web_framework)-Logo.wine.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.logo.wine/a/logo/Vue.js/Vue.js-Logo.wine.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Vue.js
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.logo.wine/a/logo/Node.js/Node.js-Logo.wine.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Node.js
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
@@ -54,11 +66,17 @@
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
       <br>RestApi
     </td> -->
+    <td align="center" width="96">
+      <a href="#git" >
+        <img src="https://www.logo.wine/a/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+  </td>
   <td align="center" width="96">
       <a href="#git" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       </a>
-      <br>Git
+      <br>Azure DevOps
   </td>
   <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
@@ -74,10 +92,6 @@
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
     </td>
-    <!-- <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td> -->
     <!-- <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
       <br>Postman
@@ -105,12 +119,6 @@
       </a>
       <br>Kali
     </td>
- <!-- <td align="center" width="96">
-      <a href="#Kubuntu" >
-        <img src="https://seeklogo.com/images/K/kubuntu-logo-975308A107-seeklogo.com.png" width="48" height="48" alt="Kubuntu" />
-      </a>
-      <br>Kubuntu
-    </td> -->
   <td align="center" width="96">
       <a href="#intellij" >
         <img src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" width="48" height="48" alt="IntelliJ"/>
@@ -135,10 +143,6 @@
       <a href="#C"> <img src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" alt="C" width="40" height="40"/> </a> 
       <br>C
     </td>
-    <!-- <td align="center" width="96">
-      <a href="#C++"> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.pn" alt="C++" width="40" height="40"/> </a> 
-      <br>C++
-    </td>-->
     <td align="center" width="96">
       <a href="#Java"> <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" alt="Java" width="40" height="40"/> </a> 
       <br>Java
