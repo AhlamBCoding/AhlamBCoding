@@ -69,17 +69,13 @@
       <a href="#git" >
         <img src="https://www.logo.wine/a/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.svg" width="48" height="48" alt="Git" />
       </a>
-      <br>Git
+      <br>Azure DevOps
   </td>
   <td align="center" width="96">
       <a href="#git" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       </a>
-      <br>Azure DevOps
-  </td>
-  <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
-      <br>Github
+      <br>Git
   </td>
   <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
@@ -124,8 +120,6 @@
       </a>
       <br>IntelliJ IDEA
      </td>
-      </td>
-        </tr>
     <td align="center"  width="96">
       <a href="#vscode">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="vscode" />
@@ -146,9 +140,7 @@
       <a href="#Java"> <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" alt="Java" width="40" height="40"/> </a> 
       <br>Java
     </td>
-    
   </tr>
-
 </table>
 
 <br/>
