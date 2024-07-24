@@ -1,10 +1,9 @@
 <h1 align="center"> Welcome 👋</h1>
 
-![Ahlam Banu Fazlu Rahman](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=Hi!%2C+my+name+is+Ahlam+Banu+Fazlu+Rahman)
+![Ahlam](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=Hi!%2C+my+name+is+Ahlam+Banu)
 - 👋 Hi, I’m @Ahlam-Banu
 - 🌱 I’m currently learning TypeScript, Java Server Programming and C#
 - 💞️ I’m looking to collaborate on any projects
-- 📫 You can reach out to me at ahlambanu.univ@gmail.com
 
 
 <h2 align="center">👨🏻‍💻 Skills</h2>
