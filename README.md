@@ -1,8 +1,8 @@
 <h1 align="center"> Welcome 👋</h1>
 
 ![Ahlam](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=Hi!%2C+my+name+is+Ahlam)
-- 👋 Hi
-- 🌱 I’m currently learning system simulation and analysis
+👋 Hi
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on any projects
 
 
@@ -13,17 +13,14 @@
 - HTML, CSS, JavaScript
 - SQL
 - Windows, Linux
-<!--- Docker, Kuberneties
-- AWS -->
+- Docker, Kuberneties
+<!--- AWS -->
 
 <h2 align="center"> 🤝🏻 Contact </h2>
 
 <!--- <p align="center">
   <a href="https://www.linkedin.com/in//">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue">
-  </a>
-  <a href="mailto:ahlambanu.univ@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email--red?style=flat-square&logo=Gmail">
   </a>
 </p> -->
 
@@ -60,10 +57,10 @@
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>Javascript
     </td>
-   <!-- <td align="center" width="96">
+   <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
       <br>RestApi
-    </td> -->
+    </td>
     <td align="center" width="96">
       <a href="#git" >
         <img src="https://www.logo.wine/a/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.svg" width="48" height="48" alt="Git" />
@@ -85,10 +82,10 @@
       <br>CSS
     </td>
     </tr>
-    <!-- <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
       <br>Postman
-    </td> -->
+    </td>
   <tr>  
   <td align="center" width="96">
       <a href="#MySQL">
@@ -147,12 +144,4 @@
    <img src="https://github-readme-stats.vercel.app/api?username=Ahlam-Banu&hide=contribs,prs" alt="GitHub stats" />
 </p>
 
-
-
 <br/>
-
-
-<!---
-Ahlam-Banu/Ahlam-Banu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
