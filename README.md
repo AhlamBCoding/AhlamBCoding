@@ -3,7 +3,7 @@
 ![Ahlam](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=Hi!%2C+my+name+is+Ahlam)
 
 🌱 I’m currently learning DevOps
-Happy to collaborate on any projects
+and happy to collaborate on any projects
 
 <h2 align="center">👨🏻‍💻 Skills</h2>
 
