@@ -1,8 +1,10 @@
-<h1 align="center"> Welcome 👋</h1>
+<div align="center">
 
-![Ahlam](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=Hi!+my+name+is+Ahlam)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+👋;I'm+Ahlam)](https://git.io/typing-svg)
 
-🌱 I’m currently learning DevOps
+</div>
+
+🌱 Currently learning DevOps
 and happy to collaborate on any projects
 
 <h2 align="center">👨🏻‍💻 Skills</h2>
