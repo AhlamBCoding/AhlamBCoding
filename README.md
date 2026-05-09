@@ -1,6 +1,6 @@
 <h1 align="center"> Welcome 👋</h1>
 
-![Ahlam](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=Hi!%2C+my+name+is+Ahlam)
+![Ahlam](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=Hi!+my+name+is+Ahlam)
 
 🌱 I’m currently learning DevOps
 and happy to collaborate on any projects
