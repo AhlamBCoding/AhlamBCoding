@@ -7,15 +7,21 @@
 🌱 Currently learning DevOps
 and happy to collaborate on any projects
 
-<h2 align="center">👨🏻‍💻 Skills</h2>
 
-- Front-End, Back-End, Scripting
-- C, C#, Java, Python
-- HTML, CSS, JavaScript
-- SQL
-- Windows, Linux
-- Docker, Kuberneties
-- Microsoft Azure
+## `$ cat skills.json`
+
+```json
+{
+  "languages": ["Python", "JavaScript", "Java", "C", "C#", "SQL"],
+  "frontend":  ["HTML", "CSS", "React", "Vue.js"],
+  "backend":   ["Node.js", "REST APIs"],
+  "devops":    ["Docker", "Kubernetes", "Azure DevOps", "Git"],
+  "os":        ["Linux (Ubuntu, Kali)", "Windows"],
+  "tools":     ["VS Code", "IntelliJ IDEA", "Eclipse", "Postman", "MySQL"]
+}
+```
+
+---
 
 <!---  <h2 align="center"> 🤝🏻 Contact </h2> -->
 
