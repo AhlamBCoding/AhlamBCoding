@@ -3,7 +3,7 @@
 ![Ahlam](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=Hi!%2C+my+name+is+Ahlam)
 
 🌱 I’m currently learning DevOps
-💞️ I’m looking to collaborate on any projects
+Happy to collaborate on any projects
 
 <h2 align="center">👨🏻‍💻 Skills</h2>
 
@@ -13,7 +13,7 @@
 - SQL
 - Windows, Linux
 - Docker, Kuberneties
-<!--- AWS -->
+- Microsoft Azure
 
 <h2 align="center"> 🤝🏻 Contact </h2>
 
